@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+E:\FreeLancer\thermometer&barometer\pool_mesurement\Project Outputs for pool_mesurement\Pick Place for pool_mesurement_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/10/20
+Time:       14:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment          Layer       Footprint         Center-X(mm) Center-Y(mm) Rotation Description                                                                            
+U1         ESP8266-07       BottomLayer ESP8266-07_MODULE 18.2650mm    25.8930mm    180      "self-contained Wi-Fi network solution"                                                
+R11        27R              TopLayer    R3216             34.0440mm    8.6710mm     90       "27 ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R5         10K              BottomLayer R3216             24.2000mm    9.5000mm     90       "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R8         27R              TopLayer    R3216             31.0440mm    8.6710mm     90       "27 ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+H3         302-R161         TopLayer    302-R161          37.4500mm    33.7300mm    360      "CONN HEADER R/A 16POS 2.54MM"                                                         
+H2         PPTC082LFBN-RC   BottomLayer PPTC082LFBN-RC    45.3500mm    24.5700mm    360      "16 Position Header Connector Through Hole"                                            
+J1         PJ-002A          TopLayer    PJ-002A           49.9500mm    10.8000mm    270      "2,0 x 6,5 mm, 2,5 A, Yatay, AA§A±k Delik, Dc GA?A§ JakA± KonnektA¶rA?"                
+H4         TB002-500-02BE   TopLayer    TB002-500-02BE    55.3000mm    36.8000mm    180      "2~24 Poles, Screw Type, Horizontal, 5.0 Pitch, 22~12 _AWG_, Terminal Block Connector" 
+U3         FT231XS-R        TopLayer    FT231XS-R         16.5000mm    19.5000mm    360      "USB Bridge, USB to UART USB 2.0 UART Interface 20-SSOP"                               
+U2         GY_BMP280_MODULE TopLayer    BMP280_MODULE     12.8700mm    4.2000mm     360      "environmental sensor with temperature, barometric pressure"                           
+R13        1K               TopLayer    R3216             22.6000mm    9.5000mm     90       "1 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"    
+R12        1K               TopLayer    R3216             26.0000mm    9.5000mm     90       "1 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"    
+R9         10K              TopLayer    R3216             15.4000mm    29.6000mm    180      "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R7         10K              BottomLayer R3216             14.7000mm    9.5000mm     90       "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R6         10K              TopLayer    R3216             15.5000mm    26.7000mm    360      "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R4         10K              TopLayer    R3216             27.6000mm    25.5340mm    270      "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R3         10K              TopLayer    R3216             54.2400mm    19.5009mm    270      "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+R2         1K               TopLayer    R3216             55.6000mm    10.0660mm    270      "1 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"    
+R1         10K              BottomLayer R3216             19.2000mm    9.5000mm     90       "10 ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"   
+Q2         MMBT3904         TopLayer    MMBT3904          21.3676mm    28.1676mm    270      "Bipolar _BJT_ Transistor NPN 40V 200mA 270MHz 350mW Surface Mount SOT-23-3"           
+Q1         MMBT3904         TopLayer    MMBT3904          9.4000mm     28.2000mm    90       "Bipolar _BJT_ Transistor NPN 40V 200mA 270MHz 350mW Surface Mount SOT-23-3"           
+LDO1       TLV1117LV33DCYR  BottomLayer TLV1117LV33DCYR   40.5000mm    13.1000mm    270      "1-A, low-dropout voltage regulator 4-SOT-223 -40 to 125"                              
+H5         PH1-06-UA        TopLayer    PH1-06-UA         5.0000mm     25.6300mm    90       "Connector Header Through Hole 6 position 0.100" (2.54mm)"                             
+H1         1981584-1        TopLayer    1981584-1         32.8690mm    3.3615mm     360      "Conn Micro USB 2.0 Type AB RCP 5 POS 0.65mm Solder RA SMD 5 Terminal 1 Port T/R"      
+D4         LED_GREEN        TopLayer    LED0603-GRENN     22.6000mm    3.7015mm     90       "Green 520nm LED Indication - Discrete 3.2V 0603 (1608 Metric)"                        
+D3         LED_BLUE         TopLayer    LED0603-BLUE      26.0000mm    3.7015mm     90       "Blue 470nm LED Indication - Discrete 3.2V 0603 (1608 Metric)"                         
+D1         RED_LED          TopLayer    LED0603-RED       55.6000mm    3.8000mm     90       "Red 630nm LED Indication - Discrete 1.9V 0603 (1608 Metric)"                          
+C16        0.1uF            TopLayer    C3216             9.5000mm     20.4000mm    90       "±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric)"                                    
+C12        2.2uF            TopLayer    C3216             24.4000mm    17.1000mm    180      "±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)"                                    
+C8         220uF            BottomLayer C3216             30.8210mm    18.9000mm    180      "SMD capacitor X6S(EIA) with capacitance 220uF Tol.20%. Rated voltage 4Vdc 105C"       
+C7         10uF             BottomLayer C3216             39.1000mm    3.5000mm     360      "-20%, +80% 10V Ceramic Capacitor Y5V (F) 1206 (3216 Metric)"                          
+C6         10uF             BottomLayer C3216             39.1000mm    6.8000mm     360      "-20%, +80% 10V Ceramic Capacitor Y5V (F) 1206 (3216 Metric)"                          
+C5         0.1uF            BottomLayer C3216             54.3000mm    17.9000mm    270      "±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric)"                                    
+C4         10uF             BottomLayer C3216             51.3000mm    17.9000mm    270      "-20%, +80% 10V Ceramic Capacitor Y5V (F) 1206 (3216 Metric)"                          
+C2         2.2uF            BottomLayer C3216             5.0000mm     9.4000mm     270      "±10% 25V Ceramic Capacitor X7R 1206 (3216 Metric)"                                    
+C1         220uF            BottomLayer C3216             9.8000mm     9.4000mm     270      "SMD capacitor X6S(EIA) with capacitance 220uF Tol.20%. Rated voltage 4Vdc 105C"       
